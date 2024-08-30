@@ -1,5 +1,5 @@
 {
-  "name": "@migliori/universal-icon-picker",
+  "name": "@jonsq/universal-icon-picker",
   "version": "1.1.8",
   "description": "Vanilla JS Icon Picker for any Icon Library",
   "main": "assets/js/universal-icon-picker.min.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/migliori/universal-icon-picker.git"
+    "url": "git+https://github.com/jonsq/universal-icon-picker.git"
   },
   "keywords": [
     "icon",
@@ -22,7 +22,7 @@
   "author": "Gilles Migliori",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/migliori/universal-icon-picker/issues"
+    "url": "https://github.com/jonsq/universal-icon-picker/issues"
   },
-  "homepage": "https://universal-icon-picker.miglisoft.com"
+  "homepage": "https://github.com/jonsq/universal-icon-picker"
 }
